@@ -1,0 +1,10 @@
+[submodule "Libs/pipettor_allgemein"]
+	path = Libs/pipettor_allgemein
+	url = https://egit.endress.com/aj/fw-electronics/liquidhandling/submodules-cybio/Shared/pipettor_allgemein.git
+[submodule "Libs/stm32f4"]
+	path = Libs/stm32f4
+	url = https://egit.endress.com/aj/fw-electronics/liquidhandling/submodules/controller/stm32f4.git
+[submodule "Libs/misc"]
+	path = Libs/misc
+	url = https://egit.endress.com/aj/fw-electronics/liquidhandling/submodules/common/misc.git
+	branch = main
